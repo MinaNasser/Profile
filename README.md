@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Mina+Nasser+Enjilizy+👋;Software+Engineer+|+.NET+Developer+|+Mobile+Developer;Welcome+to+my+GitHub!&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=0E75B6&vCenter=true&size=22" alt="Typing SVG" />
 </p>
@@ -9,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=minanasser" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=algolia" alt="Trophies" />
   </a>
 </p>
 
@@ -23,27 +22,27 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working on multiple full-stack web and mobile projects  
-- 🌱 Currently learning **Advanced Frameworks & System Design**  
-- 👨‍💻 All my projects are available at: [Portfolio Website](https://portfolio-website-pearl-five-19.vercel.app/)  
-- 💬 Ask me about: **.NET, ASP.NET, ADO.NET, Dart, Node.js**  
-- 📫 Reach me at: **minanasser82018@gmail.com**
+- 🔭 I’m currently working on full-stack web and mobile apps  
+- 🌱 Learning: **Advanced Frameworks, System Design & Clean Architecture**  
+- 👨‍💻 Portfolio: [Click to View](https://portfolio-website-pearl-five-19.vercel.app/)  
+- 💬 Ask me about: **.NET, ASP.NET, ADO.NET, Dart, Node.js, Angular**  
+- 📫 Email: **minanasser82018@gmail.com**
 
 ---
 
-### 📱 Connect with Me
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://codepen.io/mina-nasser-the-sans" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" /></a>
-  <a href="https://dev.to/minaal5al" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" /></a>
-  <a href="https://twitter.com/minaal5al" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>
-  <a href="https://www.linkedin.com/in/mina-nasser-al5al/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
-  <a href="https://stackoverflow.com/users/18736521/mina-nasser?tab=profile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" /></a>
-  <a href="https://codesandbox.io/u/minaal5al" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" /></a>
-  <a href="https://www.kaggle.com/minanasseral5al" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" /></a>
-  <a href="https://www.instagram.com/mina_al5al/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
-  <a href="https://medium.com/@minaal5al" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" /></a>
-  <a href="https://www.youtube.com/@al5al207" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" /></a>
+  <a href="https://codepen.io/mina-nasser-the-sans"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" /></a>
+  <a href="https://dev.to/minaal5al"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" /></a>
+  <a href="https://twitter.com/minaal5al"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>
+  <a href="https://www.linkedin.com/in/mina-nasser-al5al/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
+  <a href="https://stackoverflow.com/users/18736521/mina-nasser"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" /></a>
+  <a href="https://codesandbox.io/u/minaal5al"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" /></a>
+  <a href="https://www.kaggle.com/minanasseral5al"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" /></a>
+  <a href="https://www.instagram.com/mina_al5al/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
+  <a href="https://medium.com/@minaal5al"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" /></a>
+  <a href="https://www.youtube.com/@al5al207"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" /></a>
 </p>
 
 ---
@@ -67,7 +66,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&locale=en" height="150"/>
@@ -76,6 +75,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minanasser" />
 </p>
-
----
-
