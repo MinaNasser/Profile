@@ -37,118 +37,86 @@
 <a href="https://rss.app/feeds/nkyf2mz5460n56od.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss" height="30" width="40" /></a>
 </p>
 
+### 🛠 Languages and Tools
 
-<!-- 🎨 Languages and Tools Section -->
-<h3 align="left">🛠 Languages and Tools</h3>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 15px; background: #f9f9f9; border-radius: 10px;">
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff8e1; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" alt="HTML">
-    <span>HTML5</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #e3f2fd; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" alt="CSS">
-    <span>CSS3</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff3e0; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript">
-    <span>JavaScript</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #ede7f6; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" alt="TypeScript">
-    <span>TypeScript</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #e0f7fa; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" alt="Angular">
-    <span>Angular</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #fce4ec; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" alt="Bootstrap">
-    <span>Bootstrap</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #e0f2f1; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" alt="Tailwind">
-    <span>Tailwind</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #ede7f6; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" alt="Figma">
-    <span>Figma</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff8e1; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="30" alt=".NET">
-    <span>.NET</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #e3f2fd; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" alt="C#">
-    <span>C#</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #f1f8e9; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" alt="Node.js">
-    <span>Node.js</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff3e0; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="30" alt="Express.js">
-    <span>Express.js</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #fbe9e7; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" alt="MySQL">
-    <span>MySQL</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #ede7f6; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" alt="MongoDB">
-    <span>MongoDB</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #fce4ec; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30" alt="SQL Server">
-    <span>SQL Server</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff9c4; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" alt="PostgreSQL">
-    <span>PostgreSQL</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #e0f7fa; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" alt="Git">
-    <span>Git</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #ede7f6; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" alt="AWS">
-    <span>AWS</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #e0f2f1; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30" alt="Docker">
-    <span>Docker</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #f3e5f5; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30" alt="Kubernetes">
-    <span>Kubernetes</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 8px; background: #e3f2fd; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" alt="Linux">
-    <span>Linux</span>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/><br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/><br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular"/><br>Angular
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/><br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/><br>Tailwind
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET"/><br>.NET
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/><br>Express
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/><br>Dart
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/><br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/><br>SQL Server
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br>AWS
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/><br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/><br>Kubernetes
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br>Linux
+    </td>
+  </tr>
+</table>
 
 
 <!-- <h3 align="left">Support:</h3>
