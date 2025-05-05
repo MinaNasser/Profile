@@ -42,113 +42,96 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; background: #f7f7f7; padding: 15px; border-radius: 10px;">
 
   <!-- Frontend Tools -->
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff8e1; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #fff8e1; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" alt="HTML">
     <span>HTML5</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #e3f2fd; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #e3f2fd; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" alt="CSS">
     <span>CSS3</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff3e0; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #fff3e0; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript">
     <span>JavaScript</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #ede7f6; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #ede7f6; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" alt="TypeScript">
     <span>TypeScript</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #e0f7fa; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #e0f7fa; padding: 10px; border-radius: 8px;">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" alt="Angular">
     <span>Angular</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #fce4ec; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #fce4ec; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" alt="Bootstrap">
     <span>Bootstrap</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #e0f2f1; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #e0f2f1; padding: 10px; border-radius: 8px;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" alt="Tailwind">
     <span>TailwindCSS</span>
   </div>
-
-  <!-- UI/UX & Tools -->
-  <div style="display: flex; align-items: center; gap: 8px; background: #ede7f6; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #ede7f6; padding: 10px; border-radius: 8px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" alt="Figma">
     <span>Figma</span>
   </div>
-
-  <!-- Backend & Mobile -->
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff8e1; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #fff8e1; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="30" alt="DotNet">
     <span>.NET</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #e3f2fd; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #e3f2fd; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" alt="CSharp">
     <span>C#</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #f1f8e9; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #f1f8e9; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" alt="Node.js">
     <span>Node.js</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff3e0; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #fff3e0; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="30" alt="Express">
     <span>Express.js</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #e0f7fa; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" width="30" alt="Flutter">
-    <span>Flutter</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #fffde7; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #ede7f6; padding: 10px; border-radius: 8px;">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" alt="Dart">
     <span>Dart</span>
   </div>
-
-  <!-- Databases -->
-  <div style="display: flex; align-items: center; gap: 8px; background: #fbe9e7; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #fbe9e7; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" alt="MySQL">
     <span>MySQL</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #ede7f6; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #ede7f6; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" alt="MongoDB">
     <span>MongoDB</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #fce4ec; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #fce4ec; padding: 10px; border-radius: 8px;">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30" alt="SQL Server">
     <span>SQL Server</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff9c4; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #fff9c4; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" alt="PostgreSQL">
     <span>PostgreSQL</span>
   </div>
-
-  <!-- DevOps & Cloud -->
-  <div style="display: flex; align-items: center; gap: 8px; background: #e0f7fa; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #e0f7fa; padding: 10px; border-radius: 8px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" alt="Git">
     <span>Git</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #ede7f6; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #ede7f6; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" alt="AWS">
     <span>AWS</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #fff3e0; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" width="30" alt="Firebase">
-    <span>Firebase</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #e0f2f1; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #e0f2f1; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30" alt="Docker">
     <span>Docker</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #f3e5f5; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #f3e5f5; padding: 10px; border-radius: 8px;">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30" alt="Kubernetes">
     <span>Kubernetes</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #e3f2fd; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; flex-direction: column; align-items: center; background: #e3f2fd; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" alt="Linux">
     <span>Linux</span>
   </div>
 
 </div>
-
 <!-- ✅ دعم مخفي بدون حذف -->
 <!-- <h3 align="left">Support:</h3>
 <p>
