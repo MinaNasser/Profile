@@ -95,10 +95,10 @@
     <span>Express.js</span>
   </div>
   <div style="display: flex; align-items: center; gap: 8px; background: #e0f7fa; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" width="30" alt="Flutter">
+    <img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" width="30" alt="Flutter">
     <span>Flutter</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px; background: #ede7f6; padding: 8px 12px; border-radius: 8px;">
+  <div style="display: flex; align-items: center; gap: 8px; background: #fffde7; padding: 8px 12px; border-radius: 8px;">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" alt="Dart">
     <span>Dart</span>
   </div>
@@ -131,7 +131,7 @@
     <span>AWS</span>
   </div>
   <div style="display: flex; align-items: center; gap: 8px; background: #fff3e0; padding: 8px 12px; border-radius: 8px;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" alt="Firebase">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" width="30" alt="Firebase">
     <span>Firebase</span>
   </div>
   <div style="display: flex; align-items: center; gap: 8px; background: #e0f2f1; padding: 8px 12px; border-radius: 8px;">
@@ -148,8 +148,6 @@
   </div>
 
 </div>
-
-<!-- لا تعديل على هذا الجزء كما طلبت -->
 
 <!-- ✅ دعم مخفي بدون حذف -->
 <!-- <h3 align="left">Support:</h3>
