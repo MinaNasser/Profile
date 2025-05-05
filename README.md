@@ -37,6 +37,11 @@
 <a href="https://rss.app/feeds/nkyf2mz5460n56od.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss" height="30" width="40" /></a>
 </p>
 
+### 🐍 Contribution Snake
+![snake gif](https://github.com/MinaNasser/MinaNasser/blob/output/github-snake.svg)
+
+
+
 ### 🛠 Languages and Tools
 
 <table>
