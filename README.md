@@ -39,6 +39,7 @@
 
 ### 🐍 Contribution Snake
 ![snake gif](https://github.com/MinaNasser/MinaNasser/blob/output/github-snake.svg)
+![snake gif](https://github.com/MinaNasser/MinaNasser/blob/output/ocean.gif)
 
 
 
