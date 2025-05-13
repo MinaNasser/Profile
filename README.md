@@ -115,6 +115,8 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=minanasser" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=minanasser)
+
 </p>
 
 
