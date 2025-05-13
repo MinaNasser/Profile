@@ -105,16 +105,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&locale=en" alt="GitHub Stats" />
-    </p>
-   ![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=tokyonight)
-
-</div>
-
-
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minanasser" alt="GitHub Streak" />
