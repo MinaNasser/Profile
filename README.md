@@ -115,9 +115,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=minanasser" alt="GitHub Streak" />
-  ![GitHub Streak](https://streak-stats.demolab.com?user=minanasser)
-
 </p>
+
+![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=tokyonight)
+
 
 
 <p align="center">
