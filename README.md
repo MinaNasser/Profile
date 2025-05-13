@@ -114,5 +114,10 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=minanasser" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minanasser&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
