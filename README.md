@@ -107,16 +107,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&locale=en" alt="GitHub Stats" />
-  ![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=tokyonight)
+  
+</p>
+
+<p align="center">
+ ![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=tokyonight)
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minanasser" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://streak-stats.demolab.com?user=minanasser" alt="GitHub Streak" />
-</p>
+</p>-->
 
 
 
