@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=FFD700;&" alt="Typing animation" />
 </p>
 
+
 <h3 align="center">Software Engineer | .NET Developer | Full Stack | Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minanasser&label=Profile%20views&color=0e75b6&style=flat" alt="minanasser" /> </p>
