@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minanasser&label=Profile%20views&color=0e75b6&style=flat" alt="minanasser" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minanasser" alt="minanasser" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://portfolio-website-pearl-five-19.vercel.app/" alt="minanasser" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/minaal5al" target="blank"><img src="https://img.shields.io/twitter/follow/minaal5al?logo=twitter&style=for-the-badge" alt="minaal5al" /></a> </p>
 
