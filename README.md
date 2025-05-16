@@ -1,15 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=FFD700;&" alt="Typing animation" />
 </p>
-
-
 <h3 align="center">Software Engineer | .NET Developer | Full Stack | Mobile Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minanasser&label=Profile%20views&color=0e75b6&style=flat" alt="minanasser" /> </p>
-
-<p align="left"> <a href="https://github.com/MinaNasser/MinaNasser"><img src="https://portfolio-website-pearl-five-19.vercel.app/" alt="minanasser" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/minaal5al" target="blank"><img src="https://img.shields.io/twitter/follow/minaal5al?logo=twitter&style=for-the-badge" alt="minaal5al" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks**
 - 👨‍💻 All of my projects are available at [https://portfolio-website-pearl-five-19.vercel.app/](https://portfolio-website-pearl-five-19.vercel.app/)
