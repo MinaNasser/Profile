@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Frameworks**
 - 👨‍💻 All of my projects are available at [https://portfolio-website-pearl-five-19.vercel.app/](https://portfolio-website-pearl-five-19.vercel.app/)
-- 💬 Ask me about **.NET | ASP.NET | ADO.NET | Dart | Node JS**
 - 📫 How to reach me **minanasser82018@gmail.com**
 <!-- add line hr but in .md file  -->
 <!-- ### Blogs posts -->
