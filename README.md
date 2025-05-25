@@ -1,10 +1,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=FFD700;&" alt="Typing animation" />
 </p>
+
+<hr>
 <h3 align="center">Software Engineer | .NET Developer | Full Stack | Mobile Developer</h3>
 - 🌱 I’m currently learning **Frameworks**
 - 👨‍💻 All of my projects are available at [https://portfolio-website-pearl-five-19.vercel.app/](https://portfolio-website-pearl-five-19.vercel.app/)
 - 📫 How to reach me **minanasser82018@gmail.com**
+
+
 <!-- add line hr but in .md file  -->
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
