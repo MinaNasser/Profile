@@ -3,12 +3,12 @@
 </p>
 
 <hr>
-<h3 align="center">Software Engineer | .NET Developer | Full Stack | Mobile Developer</h3>
-- 🌱 I’m currently learning **Frameworks**
-- 👨‍💻 All of my projects are available at [https://portfolio-website-pearl-five-19.vercel.app/](https://portfolio-website-pearl-five-19.vercel.app/)
-- 📫 How to reach me **minanasser82018@gmail.com**
+<h3 align="center">Software Engineer | .NET Developer | Full Stack | Mobile Developer</h3><br/>
+- 🌱 I’m currently learning **Frameworks**<br/>
+- 👨‍💻 All of my projects are available at [https://portfolio-website-pearl-five-19.vercel.app/](https://portfolio-website-pearl-five-19.vercel.app/)<br/>
+- 📫 How to reach me **minanasser82018@gmail.com**<br/>
 
-
+<hr>
 <!-- add line hr but in .md file  -->
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
