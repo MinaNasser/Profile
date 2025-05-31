@@ -107,9 +107,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minanasser" alt="GitHub Streak" />
 </p>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=minanasser" alt="GitHub Streak" />
-</p>-->
+</p>
 
 
 
