@@ -1,15 +1,22 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=Hi%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=FFD700;&" alt="Typing animation" />
-</p>
-
+<div align="center">
+  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=FF0000;&" alt="Typing animation" />
+</div>
 
 <hr>
+
+### 👨‍💻 About Me
+
 <h3 align="center">Software Engineer | .NET Developer | Full Stack | Mobile Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Computer+Science+Graduate" alt="Typing SVG" />
+</p>
 
 - 🌱 I’m currently learning **Frameworks** <br/>
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-website-pearl-five-19.vercel.app/) <br/>
 - 📫 How to reach me: **minanasser82018@gmail.com** <br/>
+- 📫 How to reach me: [LinkedIn – Mina Nasser ](https://www.linkedin.com/in/mina-nasser-al5al/)
 
 <hr>
 <!-- add line hr but in .md file  -->
@@ -18,19 +25,29 @@
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://codepen.io/mina-nasser-the-sans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
+
 <a href="https://dev.to/minaal5al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" /></a>
+
 <a href="https://twitter.com/minaal5al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mina-nasser-al5al/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/18736521/mina-nasser?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+
 <a href="https://codesandbox.io/u/minaal5al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="30" width="40" /></a>
+
 <a href="https://www.kaggle.com/minanasseral5al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+
 <a href="https://www.instagram.com/mina_al5al/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+
 <a href="https://medium.com/@minaal5al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/@al5al207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+
 <a href="https://rss.app/feeds/nkyf2mz5460n56od.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss" height="30" width="40" /></a>
 
-<hr>
 # 💻 Tech Stack
 
 ### 🖥️ Frontend
@@ -91,13 +108,13 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 
-### 🐍 Contribution Snake
+<!-- ### 🐍 Contribution Snake -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -141,7 +158,31 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minanasser&show_icons=true&locale=en&layout=compact"  />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-</p> -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=tokyonight" alt="minanasser" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=minanasser&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4)
+
+</div>
+
+<!-- Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
